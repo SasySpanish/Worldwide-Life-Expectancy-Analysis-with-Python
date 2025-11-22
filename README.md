@@ -22,22 +22,21 @@ The project is divided into two main analyses:
 
 ### Global Trends
 - World life expectancy rose from **46.4 years (1950)** to **73.2 years (2023)** → **+26.8 years**
+- ![World & Continents Evolution](results/img/global_evolution.png)
 - Biggest gain: **South Korea** (+62 years)
+- ![Top 15 Biggest Gains](results/img/top15_increase.png)
 - Sub-Saharan Africa is the only major region still lagging (HIV/AIDS setback 1990–2005 clearly visible)
-- COVID-19 caused the first global drop since 1950, fully recovered by 2022–2023
-
+- ![aa](results/img/hiv%africa.png)
+- The Great Chinese Famine (1959–61) and COVID-19 (2020-2021) caused the major global drop since 1950.
+- ![aa](results/img/fall.png)
+- 
 ### Italy
 - From **63.7 years (1950)** to **83.7 years (2023)** → **+20 years**
 - Consistently among the **top 7–8 countries worldwide** in 2023
 - Outperforms G7 average by **+2.4 years**, Eastern Europe and BRICS+ by **10–12 years**
+- ![Italy vs International Groups](results/img/italy_comparison_main.png)
 - One of the most resilient Western countries during COVID-19
 
-
-## Sample Visualizations
-
-![World & Continents Evolution](results/img/global_evolution.png)
-![Top 15 Biggest Gains](results/img/top15_increase.png)
-![Italy vs International Groups](results/img/italy_comparison_main.png)
 
 ## Data Source
 
