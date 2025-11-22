@@ -18,7 +18,7 @@ The project is divided into two main analyses:
 2. **Italy Deep Dive** – Italy’s performance compared to Western Europe, G7, Americas, Mediterranean countries, BRICS+, and the world
 
 
-## Key Findings
+## Key Findings ([Complete results here](results/readme.md))
 
 ### Global Trends
 - World life expectancy rose from **46.4 years (1950)** to **73.2 years (2023)** → **+26.8 years**
