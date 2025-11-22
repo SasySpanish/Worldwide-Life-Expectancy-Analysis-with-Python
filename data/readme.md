@@ -1,8 +1,7 @@
-# data/
 
-This folder contains the cleaned and processed life expectancy dataset used throughout the project.
+#### This folder contains the cleaned and processed life expectancy dataset ( `lifexp.csv` ) used throughout the project.
 
-### lifexp.csv
+
 - **Source**: Our World in Data – "Life expectancy"  
   Link: https://ourworldindata.org/grapher/life-expectancy  
   Original authors & sources:  
