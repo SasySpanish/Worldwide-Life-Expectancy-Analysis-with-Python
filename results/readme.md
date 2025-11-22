@@ -8,9 +8,11 @@ This folder contains all the outputs of the complete analysis performed in `src/
 ![Global & Continental Trends](img/global_evolution.png)  
 *World life expectancy rose from 46.4 years in 1950 to 73.2 years in 2023 — the greatest health improvement in human history.*
 
-### 2. The Great Chinese Famine (1959–1961) – The only event that lowered global life expectancy
-![Great Chinese Famine & COVID-19](img/covid.png)  
-*The sharp drop around 1960 is caused almost entirely by the Great Leap Forward famine in China (30–45 million deaths). It remains the only time since 1950 that global life expectancy fell for multiple years.*
+### 2. The Great Chinese Famine (1959–1961) & Covid19 (2020-2021)– The only events that lowered global life expectancy
+![Great Chinese Famine & COVID-19](img/fall.png)  
+The only two events since 1950 that caused a decline in global life expectancy for consecutive years are:  
+- the **Great Leap Forward famine in China (1959–1961)**, which lowered world life expectancy by ~4 years in just two years (30–45 million deaths), and  
+- the **COVID-19 pandemic (2019–2021)**, which caused a smaller but still unprecedented drop of ~1.3 years — fully recovered by 2023.
 
 ### 3. Top 15 Countries – Biggest Gains (1950 → 2023)
 ![Top 15 Biggest Gains](img/top15_increase.png)  
