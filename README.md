@@ -49,7 +49,9 @@ The project is divided into two main analyses:
 
 This project is released under the **MIT License** – feel free to use, modify, and share.
 
+---
+
 ## Author
+Developed by **[Salvatore Spagnuolo](https://github.com/SasySpanish)**  
 
-[Salvatore Spagnuolo] 
-
+---
